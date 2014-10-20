@@ -7,7 +7,7 @@ Bmob案例展示
 
 [![](images/xiaogou.jpg)](https://itunes.apple.com/app/id898185912)
 
-【Bmob点评】AppStore推荐APP，据这个游戏开发说，这款游戏的创作来源是他养的宠物狗狗……
+【Bmob点评】AppStore推荐APP，据这个游戏开发者说，游戏的创作源泉来自于他家的宝贝狗狗……
 
 【应用介绍】There is a puppy named Beta, who is small, cute and smart. Beta’s master love it very much, so does Beta. One day, a baddy takes Beta away… What will happen?
 
