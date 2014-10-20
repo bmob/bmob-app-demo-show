@@ -228,3 +228,16 @@ This is Circle，Circling Every WPer！
 14.随时计算身体脂肪消耗量。
 
 【下载地址】[http://app.mi.com/detail/67695](http://app.mi.com/detail/67695)
+
+
+
+## 算你狠Math
+
+[![](images/suannihen.jpg)](http://zhushou.360.cn/detail/index/soft_id/1974271?recrefer=SE_D_%E7%AE%97%E4%BD%A0%E7%8B%A0#prev)
+
+【Bmob点评】这款游戏的下载量虽然不高，但我们测试之后，觉得画面制作比较精致，关卡设计还是很吸引人的，对于个人开发者而言，很赞~~
+
+【应用介绍】这是一款简单到令人发指却又容易上瘾的算术虐心游戏,请慎入.内置全球排行榜,让您与小伙伴们一较高下,您也可以把游戏截图发给好友炫耀一下,看什么才叫真正的"算你狠”。
+
+
+【下载地址】[http://zhushou.360.cn/detail/index/soft_id/1974271?recrefer=SE_D_%E7%AE%97%E4%BD%A0%E7%8B%A0#prev](http://zhushou.360.cn/detail/index/soft_id/1974271?recrefer=SE_D_%E7%AE%97%E4%BD%A0%E7%8B%A0#prev)
