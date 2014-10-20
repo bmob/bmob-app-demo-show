@@ -7,6 +7,8 @@ Bmob案例展示
 
 [![](images/xiaogou.jpg)](https://itunes.apple.com/app/id898185912)
 
+【Bmob点评】AppStore推荐APP，据这个游戏开发说，这款游戏的创作来源是他养的宠物狗狗……
+
 【应用介绍】There is a puppy named Beta, who is small, cute and smart. Beta’s master love it very much, so does Beta. One day, a baddy takes Beta away… What will happen?
 
 【下载地址】[https://itunes.apple.com/app/id898185912](https://itunes.apple.com/app/id898185912)
@@ -15,6 +17,8 @@ Bmob案例展示
 ## Circle圈子
 
 [![](images/circle.png)](http://www.windowsphone.com/zh-cn/store/app/circle圈子/5f05b00d-31fb-4429-a948-87d01f477110)
+
+【Bmob点评】这位朋友离职之后一个人在非常短的时间完成的，包括产品、UI、开发和测试，内测期间就有非常多的用户使用，目前人在广州。
 
 【应用介绍】首个专属于WPers的社交APP，
 秉承WP设计精髓，触于指尖、悦于心；
@@ -28,9 +32,11 @@ This is Circle，Circling Every WPer！
 【下载地址】[http://www.windowsphone.com/zh-cn/store/app/circle圈子/5f05b00d-31fb-4429-a948-87d01f477110](http://www.windowsphone.com/zh-cn/store/app/circle圈子/5f05b00d-31fb-4429-a948-87d01f477110)
 
 
-## 闹钟one（豌豆荚设计奖·第87期）
+## 闹钟one
 
 [![](images/naozhong.png)](http://www.wandoujia.com/apps/com.nextdev.alarm)
+
+【Bmob点评】应用获得了豌豆荚第87期的设计奖，非常有创意。
 
 【应用介绍】整合闹钟one的经典设计和即时提醒2.0的强大功能，闹钟one³是迄今为止最优雅的闹钟。闹钟one将闹钟、定时器、日历及日程活动提醒整合在同一个应用中，并以时间顺序显示在同一个时间轴中，滑动屏幕即可了解您一整天的时间安排. 
 
@@ -41,6 +47,8 @@ This is Circle，Circling Every WPer！
 
 [![](images/easytouch.jpg)](https://play.google.com/store/apps/details?id=com.shere.easytouch.holo)
 
+【Bmob点评】EasyTouch的用户量非常大，下载量已经超过千万，简单方便大家使用。
+
 【应用介绍】EasyTouch是一款轻松让您单手管理手机的快捷软件，可完美代替物理键，独特的区域截屏，无需root就能使用虚拟返回键功能，即使锁屏的时候也可以让您随意开关手电筒，数据流量、声音、wifi等控制手机功能 (快捷菜单)，让您在使用任何软件的时候随意切换软件（最近使用），随时打开您想要打开的软件 (悬浮窗->常用)，让您在游戏中一键截图(需要ROOT权限) ，让您在游戏卡的时候清出内存，让您手机更加流畅(内存清理)，菜单键需要ROOT权限。
 
 【下载地址】[https://play.google.com/store/apps/details?id=com.shere.easytouch.holo](https://play.google.com/store/apps/details?id=com.shere.easytouch.holo)
@@ -49,6 +57,8 @@ This is Circle，Circling Every WPer！
 ## 你猜啊
 
 [![](images/nicaia.png)](http://zhushou.360.cn/detail/index/soft_id/1874241?recrefer=SE_D_你猜啊)
+
+【Bmob点评】下载这个游戏玩了之后，我觉得依我的智商实在不适合在地球生存了
 
 【应用介绍】 “你猜啊”不仅仅是一款简单的猜图游戏，它还是一款极具挑战性的问答游戏，一个小百科，给你全方位的脑补，最强大脑什么的在它面前根本不值一提，除非你已经超越了这个等级。游戏中还设有等级规则，让你体验从凡人到神的成就感！
 
