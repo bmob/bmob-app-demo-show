@@ -266,3 +266,20 @@ This is Circle，Circling Every WPer！
 
 
 【下载地址】[http://itunes.apple.com/us/app/tian-cai-di-yi-bu/id917078460?l=zh&ls=1&mt=8](http://itunes.apple.com/us/app/tian-cai-di-yi-bu/id917078460?l=zh&ls=1&mt=8)
+
+
+## 3D切个球
+
+[![](images/qiegeqiu.jpg)](http://www.wandoujia.com/apps/var3d.net.qiegeqiu)
+
+【应用介绍】
+- 3D切个球 3D Ball Cut 专为快乐而设计，在你闲散的碎片时间中得到休闲。
+- 3D切个球 3D Ball Cut 游戏拥有5个大关卡，每个关卡拥有不同的场景，不同的场景带来不同的体验和新鲜感。
+- 3D切个球 3D Ball Cut 简单的操作，滑动屏幕即可切开大量飞起来的各种球，华丽的粒子光效非常漂亮。
+- 游戏拥有金币系统和商店系统，请你知晓，本游戏完全免费，金币是免费从游戏中获得的。
+- 商店拥有多种道具，助你在较难的关卡更容易过关。你也可以在商店升级你的基本属性，使游戏变得更容易！
+- 每隔几个关卡，会出现一个只有金币和砖石的关卡，没错，这都是免费赠送的金币，你不用花费一分钱。
+- 本游戏还拥有大量的幽默段子，并以人物对话的形式展现。你可以在游戏的同时获得快乐。
+
+
+【下载地址】[http://www.wandoujia.com/apps/var3d.net.qiegeqiu](http://www.wandoujia.com/apps/var3d.net.qiegeqiu)
