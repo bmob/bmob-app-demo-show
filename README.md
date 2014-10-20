@@ -251,3 +251,18 @@ This is Circle，Circling Every WPer！
 
 
 【下载地址】[http://zhushou.360.cn/detail/index/soft_id/1974271?recrefer=SE_D_%E7%AE%97%E4%BD%A0%E7%8B%A0#prev](http://zhushou.360.cn/detail/index/soft_id/1974271?recrefer=SE_D_%E7%AE%97%E4%BD%A0%E7%8B%A0#prev)
+
+
+
+## 天才帝一步
+
+[![](images/tiancaidiyibu.jpg)](http://itunes.apple.com/us/app/tian-cai-di-yi-bu/id917078460?l=zh&ls=1&mt=8)
+
+【应用介绍】天才帝一步，比比谁速度！自从用了“天才帝一步”，妈妈再也不担心我的算术了！
+1、经典模式：以最短时间答对20答题，俗称小旋风模式；
+2、禅模式：就是20秒内答尽可量多题的模式,磨练你反应的好模式；
+3、极速模式：这模式下追求的就是答题速度，无限的时间答无限的题；
+4、闯关模式：就是在规定时间里面完成20道题来闯关。关卡越高，给你的时间越短。
+
+
+【下载地址】[http://itunes.apple.com/us/app/tian-cai-di-yi-bu/id917078460?l=zh&ls=1&mt=8](http://itunes.apple.com/us/app/tian-cai-di-yi-bu/id917078460?l=zh&ls=1&mt=8)
