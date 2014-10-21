@@ -330,3 +330,18 @@ Bmob案例展示
 
 
 【下载地址】[https://itunes.apple.com/cn/app/de-de-ting-peng-you-shuo-mi-mi/id897907363?l=zh&ls=1&mt=8](https://itunes.apple.com/cn/app/de-de-ting-peng-you-shuo-mi-mi/id897907363?l=zh&ls=1&mt=8)
+
+
+
+## GT-让Les遇见Gay
+
+[![](images/gt.jpg)](https://itunes.apple.com/us/app/gt-rangles-yu-jiangay/id886641357?l=zh&ls=1&mt=8)
+
+【Bmob点评】直男/直女莫入……
+【应用介绍】
+除了YP，社交APP总得有点其他的可能。让Les遇见Gay，GT想要带来的便是这种可能。
+做死党、做闺蜜、甚至是做家人……一起吃喝、一起玩乐还是一起生活，这一切的决定权在你，而GT只是为你提供一个可能性——可能可以帮你在逼婚的压力下过得顺心一些。
+我们没有口号，只有一个祝愿——“没有同妻”。
+
+
+【下载地址】[https://itunes.apple.com/us/app/gt-rangles-yu-jiangay/id886641357?l=zh&ls=1&mt=8](https://itunes.apple.com/us/app/gt-rangles-yu-jiangay/id886641357?l=zh&ls=1&mt=8)
