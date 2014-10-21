@@ -346,3 +346,26 @@ Bmob案例展示
 
 
 【下载地址】[https://itunes.apple.com/us/app/gt-rangles-yu-jiangay/id886641357?l=zh&ls=1&mt=8](https://itunes.apple.com/us/app/gt-rangles-yu-jiangay/id886641357?l=zh&ls=1&mt=8)
+
+
+
+## 舌尖上的美食-吃货必备神器
+
+[![](images/meishi.jpg)](https://itunes.apple.com/cn/app/she-jian-shang-mei-shi-chi/id894399240?mt=8)
+
+【Bmob点评】开发者是吃货么？
+
+【应用介绍】
+"舌尖上的美食",吃货达人们必备神器！
+"舌尖上的美食"为吃货们量身定制，我们每天由专业美食编辑为吃货们精挑细选上百种美食，让你不错过任何好吃有物廉价美的食品。
+9.9包邮、19.9包邮、39.9包邮每天更新:
+让您尽情享受物廉价美的食品。
+特色专题: 
+汇集各色精品美食，满足你对特色美食的最求
+美食分类:
+在你喜欢的美食类别里尽情畅游吧！
+
+在这里您将发现美食，收藏喜欢的美食，还能向小伙伴们分享你的美食哦！
+
+
+【下载地址】[https://itunes.apple.com/cn/app/she-jian-shang-mei-shi-chi/id894399240?mt=8](https://itunes.apple.com/cn/app/she-jian-shang-mei-shi-chi/id894399240?mt=8)
