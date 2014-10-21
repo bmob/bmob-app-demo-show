@@ -319,3 +319,14 @@ Bmob案例展示
 
 
 【下载地址】[https://itunes.apple.com/cn/app/yue-jiu/id911210555?mt=8](https://itunes.apple.com/cn/app/yue-jiu/id911210555?mt=8)
+
+
+## 嘚嘚-听朋友说秘密
+
+[![](images/dede.jpg)](https://itunes.apple.com/cn/app/de-de-ting-peng-you-shuo-mi-mi/id897907363?l=zh&ls=1&mt=8)
+
+【应用介绍】
+用打字的速度来吐槽实在太累！嘚嘚——真正全语音匿名吐槽社交，发布和评论都可使用语音，让你“嘚嘚”得更省心！定制变声系统让你的声音变化十足，“嘚嘚”起来更放心，更安心；不用邀请好友、任何人都能评论，让你“嘚嘚”得随心所欲。快来一起“嘚嘚”！
+
+
+【下载地址】[https://itunes.apple.com/cn/app/de-de-ting-peng-you-shuo-mi-mi/id897907363?l=zh&ls=1&mt=8](https://itunes.apple.com/cn/app/de-de-ting-peng-you-shuo-mi-mi/id897907363?l=zh&ls=1&mt=8)
