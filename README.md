@@ -16,7 +16,7 @@ Bmob案例展示
 
 ## Circle圈子
 
-[![](images/circle.png)](http://www.windowsphone.com/zh-cn/store/app/circle圈子/5f05b00d-31fb-4429-a948-87d01f477110)
+[![](images/circle.png)](http://wpcircle.cn/)
 
 【Bmob点评】这位朋友离职之后一个人在非常短的时间完成的，包括产品、UI、开发和测试，内测期间就有非常多的用户使用，目前人在广州。
 
@@ -30,7 +30,7 @@ Bmob案例展示
 - 我们有相同的选择，没有理由不一起分享。
 - This is Circle，Circling Every WPer！
 
-【下载地址】[http://www.windowsphone.com/zh-cn/store/app/circle圈子/5f05b00d-31fb-4429-a948-87d01f477110](http://www.windowsphone.com/zh-cn/store/app/circle圈子/5f05b00d-31fb-4429-a948-87d01f477110)
+【下载地址】[http://wpcircle.cn/](http://wpcircle.cn/)
 
 
 ## 闹钟one
