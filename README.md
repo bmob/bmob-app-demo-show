@@ -369,3 +369,22 @@ Bmob案例展示
 
 
 【下载地址】[https://itunes.apple.com/cn/app/she-jian-shang-mei-shi-chi/id894399240?mt=8](https://itunes.apple.com/cn/app/she-jian-shang-mei-shi-chi/id894399240?mt=8)
+
+
+
+
+## 宠物粉碎
+
+[![](images/crush.jpg)](https://play.google.com/store/apps/details?id=com.goodlogic.petcrushsaga)
+
+
+【应用介绍】
+森林王国，萌宠跳起探戈，燃爆派对狂欢！调皮萌宠萌萌哒，疯狂消除欢乐多！
+萌宠齐聚：憨憨的蓝皮象、坏笑的牛魔王、懒懒的红皮猪、胆小的小黄鸡、调皮的顽皮猴、自恋的狮子王……N多森林小宠物萌态百出！
+花式消除：三连消、四连消，五连消！挑战你的手眼配合 横向爆破、纵向爆破、特消爆破、考验你的反应速度！
+爆破闯关：百大炫酷关卡，各种专属道具；关关更有惊喜大礼，打造三星战绩，突破积分上限。森林闯关大冒险等你来挑战哦 ！
+※ 良心大作，无强制消费，天天领奖品！
+※ 数百个精心设计的关卡，不断更新，总有新惊喜！
+
+
+【下载地址】[https://play.google.com/store/apps/details?id=com.goodlogic.petcrushsaga](https://play.google.com/store/apps/details?id=com.goodlogic.petcrushsaga)
