@@ -388,3 +388,36 @@ Bmob案例展示
 
 
 【下载地址】[https://play.google.com/store/apps/details?id=com.goodlogic.petcrushsaga](https://play.google.com/store/apps/details?id=com.goodlogic.petcrushsaga)
+
+
+
+
+## 健忘哥的玩具店
+
+[![](images/jwg.png)](http://apk.hiapk.com/appinfo/com.dwintergame.forgetfulboy)
+
+
+【应用介绍】
+嗨，我叫爱德华，是小镇上玩具店的老板。大家都喜欢叫我健忘哥，因为我总是记不住玩具摆放的位置。以至于顾客老是抱怨等候的时间太长。我想是时候找个助手来帮助我了。只要有人告诉我玩具的位置，我会以最快的速度取到它。对于爬梯子我可是专家。
+
+游戏方法：
+
+1.点击某一格柜子，健忘哥就会去打开它，并且拿取里面的玩具。
+
+2.如果与顾客想要的玩具一致，即为成功。
+
+
+【下载地址】[http://apk.hiapk.com/appinfo/com.dwintergame.forgetfulboy](http://apk.hiapk.com/appinfo/com.dwintergame.forgetfulboy)
+
+
+## 飞机大战巨人岛
+
+[![](images/fjdz.png)](http://apk.hiapk.com/appinfo/com.dwintergame.airrun)
+
+
+【应用介绍】
+
+故事发生的时候地球已经很多人类已经变成了无脑巨人，男主角小奥是一个飞行员，飞机失事，被困于1个山头上，山脚很多无脑巨人，天空中也有很多感染的各种无脑鸟类， 是小奥飞行的主要敌人，小奥必须修理好飞机，躲开鸟类和无脑巨人，然后离开这里，于此同时，小奥发现对面山头正有一美女正在求救，火爆身材，漂亮的脸蛋，深深吸引住了小奥，小奥决定去救她，于是小奥开展了拯救美女的行动
+
+
+【下载地址】[http://apk.hiapk.com/appinfo/com.dwintergame.airrun](http://apk.hiapk.com/appinfo/com.dwintergame.airrun)
