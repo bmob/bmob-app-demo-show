@@ -18,7 +18,7 @@ Bmob案例展示
 
 [![](images/circle.png)](http://wpcircle.cn/)
 
-【Bmob点评】这位朋友离职之后一个人在非常短的时间完成的，包括产品、UI、开发和测试，内测期间就有非常多的用户使用，目前人在广州。
+【Bmob点评】这位朋友离职之后一个人在非常短的时间完成的，包括产品、UI、开发和测试，内测期间就有非常多的用户使用，光是缩略图生成的请求一天就高达100w+，用户增长率10%+，目前人在广州。
 
 【应用介绍】
 - 首个专属于WPers的社交APP，
@@ -31,6 +31,18 @@ Bmob案例展示
 - This is Circle，Circling Every WPer！
 
 【下载地址】[http://wpcircle.cn/](http://wpcircle.cn/)
+
+
+## X隐私:XPrivacy
+
+[![](images/xyinsi.png)](http://www.coolapk.com/apk/biz.bokhorst.xprivacy?v=1.11.7&from=rss)
+
+【Bmob点评】这款X隐私XPrivacy是权限管理的新秀，即勾即起效，主攻隐私相关的权限，类型非常详细，同时也造福了无法使用Pdroid的用户。
+
+【应用介绍】
+X隐私XPrivacy是一款基于Xposed框架的模块应用，可以对所有应用可能泄露隐私的权限进行管理，对禁止可能会导致崩溃的应用采取欺骗策略，提供伪造信息。
+
+【下载地址】[http://www.coolapk.com/apk/biz.bokhorst.xprivacy?v=1.11.7&from=rss](http://www.coolapk.com/apk/biz.bokhorst.xprivacy?v=1.11.7&from=rss)
 
 
 ## 闹钟one
